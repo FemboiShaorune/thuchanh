@@ -1,4 +1,9 @@
 123456
 yeu shaorune nhat
 
+<<<<<<< HEAD
 thay doi tren may 1
+=======
+
+thay doi tren may khac
+>>>>>>> 59296e35e7673b6bee188b19955af5e13915cd88
